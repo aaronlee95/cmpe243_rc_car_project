@@ -1,0 +1,12 @@
+test/TestAdcConductor.c:17:testInitShouldCallHardwareInit:PASS
+test/TestAdcConductor.c:23:testRunShouldNotDoAnythingIfItIsNotTime:PASS
+test/TestAdcConductor.c:30:testRunShouldNotPassAdcResultToModelIfSampleIsNotComplete:PASS
+test/TestAdcConductor.c:38:testRunShouldGetLatestSampleFromAdcAndPassItToModelAndStartNewConversionWhenItIsTime:PASS
+test/TestAdcConductor.c:49:testJustHereToTest_Should_ProperlyPassAStructAndVerifyIt:PASS
+test/TestAdcConductor.c:82:test_AdcConductor_AlsoHereToTest_Should_ProperlyReturnAStructAsExpected1:PASS
+test/TestAdcConductor.c:93:test_AdcConductor_AlsoHereToTest_Should_ProperlyReturnAStructAsExpected2:PASS
+test/TestAdcConductor.c:104:test_AdcConductor_YetAnotherTest_Should_VerifyThatPointersToStructsAreTestable:PASS
+
+-----------------------
+8 Tests 0 Failures 0 Ignored 
+OK

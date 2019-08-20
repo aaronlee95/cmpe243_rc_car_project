@@ -1,0 +1,8 @@
+code_test/test_bit_count.c:10:test_nothing:PASS
+code_test/test_bit_count.c:13:test_bit_count_get_uint8:PASS
+code_test/test_bit_count.c:25:test_bit_count_get_uint16:PASS
+code_test/test_bit_count.c:29:test_bit_count_get_uint32:PASS
+
+-----------------------
+4 Tests 0 Failures 0 Ignored 
+OK

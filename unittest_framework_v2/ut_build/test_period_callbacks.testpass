@@ -1,0 +1,10 @@
+code_test/test_period_callbacks.c:15:test_C_period_init:PASS
+code_test/test_period_callbacks.c:20:test_C_period_reg_tlm:PASS
+code_test/test_period_callbacks.c:24:test_C_period_1Hz:PASS
+code_test/test_period_callbacks.c:28:test_C_period_10Hz:PASS
+code_test/test_period_callbacks.c:32:test_C_period_100Hz:PASS
+code_test/test_period_callbacks.c:40:test_C_period_1000Hz:PASS
+
+-----------------------
+6 Tests 0 Failures 0 Ignored 
+OK

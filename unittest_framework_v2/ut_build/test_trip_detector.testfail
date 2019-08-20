@@ -1,0 +1,16 @@
+
+tearDown() is called after each test_* function (unless test is ignored)
+code_test/test_trip_detector.c:13:test_trip_detector_init:PASS
+code_test/test_trip_detector.c:29:test_trip_detector_add_sample__threshold:FAIL: Expected 3 Was 4
+tearDown() is called after each test_* function (unless test is ignored)
+
+code_test/test_trip_detector.c:38:test_trip_detector_add_sample__reset:FAIL: Expected 0 Was 2
+tearDown() is called after each test_* function (unless test is ignored)
+
+
+tearDown() is called after each test_* function (unless test is ignored)
+code_test/test_trip_detector.c:41:test_trip_detector_is_tripped:PASS
+
+-----------------------
+4 Tests 2 Failures 0 Ignored 
+FAIL

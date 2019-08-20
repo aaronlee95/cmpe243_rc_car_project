@@ -1,0 +1,8 @@
+test/TestAdcHardware.c:15:testInitShouldDelegateToConfiguratorAndTemperatureSensor:PASS
+test/TestAdcHardware.c:25:testGetSampleCompleteShouldReturn_FALSE_WhenTemperatureSensorSampleReadyReturns_FALSE:PASS
+test/TestAdcHardware.c:31:testGetSampleCompleteShouldReturn_TRUE_WhenTemperatureSensorSampleReadyReturns_TRUE:PASS
+test/TestAdcHardware.c:37:testGetSampleShouldDelegateToAdcTemperatureSensor:PASS
+
+-----------------------
+4 Tests 0 Failures 0 Ignored 
+OK

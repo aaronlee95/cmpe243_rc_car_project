@@ -1,0 +1,19 @@
+
+setUp() is called before each test_* function
+
+tearDown() is called after each test_* function (unless test is ignored)
+code_test/test_sample.c:12:test_passing:PASS
+
+setUp() is called before each test_* function
+code_test/test_sample.c:17:test_failing:FAIL: Intentional Failure
+tearDown() is called after each test_* function (unless test is ignored)
+
+
+setUp() is called before each test_* function
+code_test/test_sample.c:21:test_ignored:IGNORE
+tearDown() is called after each test_* function (unless test is ignored)
+
+
+-----------------------
+3 Tests 1 Failures 1 Ignored 
+FAIL
